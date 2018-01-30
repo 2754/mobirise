@@ -147,7 +147,7 @@
             "showArrow": true,
             "imageSize": "65",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/help9-1366x768.png",
+            "bgImage": "file:///C:/Users/2754/AppData/Local/Mobirise.com/Mobirise/projectData/help9-1366x768.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -178,7 +178,7 @@
             }
           },
           "title": "Parody of : Anything :<br>Chain of Broken Memories",
-          "text": "Parody of what could have been my final year project, in Portuguese! A resume of my PAP.&nbsp;",
+          "text": "Parody of what could have been my final year project, in Portuguese! A resume of my PAP. In english on my facebook page.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -489,7 +489,7 @@
             "showArrow": true,
             "imageSize": "65",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/the-table-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/the%20table-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -546,7 +546,7 @@
             "overlayOpacity": "0.5"
           },
           "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/google-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
           "alias": "facebook-comments",
           "_tags": [
