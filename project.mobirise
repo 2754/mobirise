@@ -109,10 +109,10 @@
             },
             "video": {
               "active": true,
-              "src": "https://vimeo.com/245914849",
+              "src": "https://vimeo.com/253405454?activityReferer=1",
               "aspectratio": "16:9",
               "autoplay": "on",
-              "loop": "on"
+              "loop": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
