@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.0.17",
-    "uniqCompNum": 20,
+    "uniqCompNum": 21,
     "versionPublish": "4.0.17",
     "favicon": "@PROJECT_PATH@/assets/images/dfstar.svg",
     "noImageResize": ""
@@ -111,7 +111,7 @@
               "active": true,
               "src": "https://vimeo.com/253405454?activityReferer=1",
               "aspectratio": "16:9",
-              "autoplay": "on",
+              "autoplay": false,
               "loop": false
             },
             "iconFont": {
@@ -128,6 +128,63 @@
           ],
           "_name": "header6",
           "_anchor": "header6-i"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "65",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/help9-1366x7680.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://vimeo.com/253405454?activityReferer=1",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Paródia -Anything :<br>Chain of Broken Memories",
+          "text": "Paródia do que podia ser o meu trabalho final de ano, em Português! Um resumo do projeto final.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-k"
         },
         {
           "_inherit": "header2",
