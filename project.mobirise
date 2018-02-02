@@ -31,7 +31,8 @@
     "versionPublish": "4.6.3",
     "favicon": "@PROJECT_PATH@/assets/images/dfstar.svg",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
