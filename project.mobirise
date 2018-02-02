@@ -28,9 +28,10 @@
     },
     "versionFirst": "4.0.17",
     "uniqCompNum": 21,
-    "versionPublish": "4.0.17",
+    "versionPublish": "4.6.3",
     "favicon": "@PROJECT_PATH@/assets/images/dfstar.svg",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -109,7 +110,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://vimeo.com/253405454?activityReferer=1",
+              "src": "https://vimeo.com/253922919",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -166,7 +167,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://vimeo.com/253405454?activityReferer=1",
+              "src": "https://vimeo.com/253405454",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
